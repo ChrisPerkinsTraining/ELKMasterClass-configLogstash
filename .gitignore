@@ -5,6 +5,7 @@
 logstash-7.5.2/bin/
 logstash-7.5.2/data/
 logstash-7.5.2/lib/
+logstash-7.5.2/logs/
 logstash-7.5.2/logstash-core/
 logstash-7.5.2/logstash-core-plugin-api/
 logstash-7.5.2/modules/
