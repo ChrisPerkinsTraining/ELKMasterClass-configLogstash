@@ -2,22 +2,24 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # Logstash Specific - Track Pipelines and configuration only
-logstash-7.5.2/bin/
-logstash-7.5.2/data/
-logstash-7.5.2/lib/
-logstash-7.5.2/logstash-core/
-logstash-7.5.2/logstash-core-plugin-api/
-logstash-7.5.2/modules/
-logstash-7.5.2/tools/
-logstash-7.5.2/vendor/
-logstash-7.5.2/x-pack/
-logstash-7.5.2/CONTRIBUTORS
-logstash-7.5.2/Gemfile
-logstash-7.5.2/Gemfile.lock
-logstash-7.5.2/*.txt
-logstash-7.5.2/*.TXT
+logstash-6.2.1/bin/
+logstash-6.2.1/data/
+logstash-6.2.1/lib/
+logstash-6.2.1/logs/
+logstash-6.2.1/logstash-core/
+logstash-6.2.1/logstash-core-plugin-api/
+logstash-6.2.1/modules/
+logstash-6.2.1/tools/
+logstash-6.2.1/vendor/
+logstash-6.2.1/x-pack/
+logstash-6.2.1/CONTRIBUTORS
+logstash-6.2.1/Gemfile
+logstash-6.2.1/Gemfile.lock
+logstash-6.2.1/*.txt
+logstash-6.2.1/*.TXT
+logstash-6.2.1/LICENSE
 
-logstash-7.5.2.tar.*
+logstash-6.2.1.tar.*
 
 # User-specific stuff
 .idea/**/workspace.xml
